@@ -10,4 +10,5 @@ and put them in offsets.cs and compile.
 if u dont know how to do that please learn to.
 
 Preview of ESP (colors changed)
-![](https://github.com/elixirgg/cs2-external-base/UtGNNlr.gif)
+<img src="https://i.imgur.com/SJ9299Z.gif" alt="esp preview">
+
