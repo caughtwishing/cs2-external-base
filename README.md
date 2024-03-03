@@ -1,5 +1,6 @@
 # CS2 C# external base.
 Made in a day, built off of swed's c# tutorials but added some of my own cool stuff.
+Also this is read only, no writing involved.
 
 No writing involved, triggerbot simulates a mouse event.
 # OFFSETS WILL STOP WORKING
